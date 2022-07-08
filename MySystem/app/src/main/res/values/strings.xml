@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My System</string>
+    <string name="form_email">Enter email</string>
+    <string name="form_password">Enter Password</string>
+    <string name="form_fname">First Name</string>
+    <string name="form_lname">Last Name</string>
+    <string name="form_Date">Date Of Birth</string>
+    <string name="form_Gender">Gender</string>
+    <string name="form_Contact">Contact</string>
+    <string name="form_Status">Status</string>
+    <string name="form_Address">Address</string>
+    <string name="button_save_patients">SAVE</string>
+</resources>
